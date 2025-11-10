@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alicstw-dev
-- 👀 I’m interested in: html | css | python
+- 👀 I’m interested in: Html | Css | Python | Java | Js 
 - 🌱 I’m currently studying: Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) - IFCE
 - 💞️ I’m looking to collaborate on IT area.
 - 📫 How to reach me: alicemariadelimamelo1227@gmail.com | ig: alicstw.
